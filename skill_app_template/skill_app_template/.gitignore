@@ -1,0 +1,16 @@
+**/.DS_Store
+**/node_modules
+**/.next
+**/build
+**/.dart_tool
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea
+**/.vscode
+**/ios/Pods
+**/android/.gradle
+**/android/local.properties
+**/android/key.properties
+**/*.log
+admin_web/.env.local
+mobile_flutter/lib/firebase_options.dart

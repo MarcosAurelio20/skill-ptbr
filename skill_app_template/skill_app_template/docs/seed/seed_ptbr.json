@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "comunicacao",
+      "titlePt": "Comunicação",
+      "order": 1,
+      "color": "#2EC4B6",
+      "icon": "message"
+    }
+  ],
+  "skills": [
+    {
+      "id": "comunicacao_base",
+      "categoryId": "comunicacao",
+      "titlePt": "Comunicação",
+      "subtitlePt": "Base para todas as habilidades sociais",
+      "bulletsPt": [
+        "Clareza ao falar",
+        "Conexões melhores",
+        "Menos mal-entendidos"
+      ],
+      "difficulty": "Iniciante",
+      "order": 1,
+      "imageKey": "communication_1",
+      "published": true
+    },
+    {
+      "id": "assertiva",
+      "categoryId": "comunicacao",
+      "titlePt": "Comunicação Assertiva",
+      "subtitlePt": "Clareza com respeito",
+      "bulletsPt": [
+        "Dizer “não” sem culpa",
+        "Pedir o que precisa",
+        "Colocar limites"
+      ],
+      "difficulty": "Iniciante",
+      "order": 2,
+      "imageKey": "communication_2",
+      "published": true
+    },
+    {
+      "id": "negociacao_salarial",
+      "categoryId": "comunicacao",
+      "titlePt": "Negociação Salarial",
+      "subtitlePt": "Ganhe com estratégia",
+      "bulletsPt": [
+        "Preparar argumentos",
+        "Falar de valor",
+        "Fechar com confiança"
+      ],
+      "difficulty": "Intermediário",
+      "order": 3,
+      "imageKey": "communication_3",
+      "published": true
+    }
+  ]
+}
