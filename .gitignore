@@ -1,0 +1,24 @@
+# Node/Next.js
+node_modules/
+.next/
+
+# Firebase Functions build artifacts
+functions/lib/
+functions/node_modules/
+firebase-debug.log
+
+# Flutter/Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+.DS_Store
+coverage/
